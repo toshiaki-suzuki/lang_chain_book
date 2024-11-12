@@ -8,6 +8,7 @@ openai = "*"
 langchain = "*"
 langchain-community = "*"
 langchain-openai = "*"
+pydantic = "*"
 
 [dev-packages]
 
